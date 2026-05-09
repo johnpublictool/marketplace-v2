@@ -1,7 +1,7 @@
 > **⚠️ DEPRECATED**  
 > This site is no longer actively maintained.
 
-<h3 align="center">Reservoir Market v2</h3>
+<h3 align="center">Reservoir Market v2 </h3>
   <p align="center">
 An open source NFT marketplace built on Reservoir.
 
